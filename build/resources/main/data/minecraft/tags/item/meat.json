@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "the_tools_and_other:grape",
+    "the_tools_and_other:gold_porkchop_cooked",
+    "the_tools_and_other:gold_porkchop",
+    "the_tools_and_other:red_apple_juice",
+    "the_tools_and_other:gree_apple_juice",
+    "the_tools_and_other:vainilla_nutella",
+    "the_tools_and_other:chocolate_nutella",
+    "the_tools_and_other:strawberry_nutella",
+    "the_tools_and_other:pizza"
+  ]
+}

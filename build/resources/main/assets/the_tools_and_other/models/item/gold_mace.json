@@ -1,0 +1,7 @@
+{
+  "parent": "the_tools_and_other:custom/gold_mace",
+  "textures": {
+    "0": "the_tools_and_other:block/gold_mace_base",
+    "particle": "the_tools_and_other:item/gold_mace_base"
+  }
+}

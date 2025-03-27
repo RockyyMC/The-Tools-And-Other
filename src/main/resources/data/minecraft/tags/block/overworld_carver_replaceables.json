@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "the_tools_and_other:colosal_grass",
+    "minecraft:stone",
+    "minecraft:rooted_dirt",
+    "the_tools_and_other:red_reinforced_bricks",
+    "minecraft:dirt",
+    "minecraft:grass_block"
+  ]
+}

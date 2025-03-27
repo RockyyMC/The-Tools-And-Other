@@ -1,0 +1,87 @@
+{
+  "description": {
+    "translate": "enchantment.the_tools_and_other.protect_x"
+  },
+  "supported_items": [
+    "the_tools_and_other:amethyst_armor_helmet",
+    "the_tools_and_other:amethyst_armor_chestplate",
+    "the_tools_and_other:amethyst_armor_leggings",
+    "the_tools_and_other:amethyst_armor_boots",
+    "the_tools_and_other:cherry_armor_helmet",
+    "the_tools_and_other:cherry_armor_chestplate",
+    "the_tools_and_other:cherry_armor_leggings",
+    "the_tools_and_other:cherry_armor_boots",
+    "the_tools_and_other:blue_ruby_armor_helmet",
+    "the_tools_and_other:blue_ruby_armor_chestplate",
+    "the_tools_and_other:blue_ruby_armor_leggings",
+    "the_tools_and_other:blue_ruby_armor_boots",
+    "the_tools_and_other:redstone_helmet",
+    "the_tools_and_other:redstone_chestplate",
+    "the_tools_and_other:redstone_leggings",
+    "the_tools_and_other:redstone_boots",
+    "the_tools_and_other:copper_helmet",
+    "the_tools_and_other:copper_chestplate",
+    "the_tools_and_other:copper_leggings",
+    "the_tools_and_other:copper_boots",
+    "the_tools_and_other:obsidian_armor_helmet",
+    "the_tools_and_other:obsidian_armor_chestplate",
+    "the_tools_and_other:obsidian_armor_leggings",
+    "the_tools_and_other:obsidian_armor_boots",
+    "the_tools_and_other:aqua_armor_chestplate",
+    "the_tools_and_other:aqua_armor_leggings",
+    "the_tools_and_other:aqua_armor_boots",
+    "the_tools_and_other:magne_armor_helmet",
+    "the_tools_and_other:magne_armor_chestplate",
+    "the_tools_and_other:magne_armor_leggings",
+    "the_tools_and_other:magne_armor_boots",
+    "the_tools_and_other:aqua_dark_armor_helmet",
+    "the_tools_and_other:aqua_dark_armor_chestplate",
+    "the_tools_and_other:aqua_dark_armor_leggings",
+    "the_tools_and_other:aqua_dark_armor_boots",
+    "the_tools_and_other:red_armor_helmet",
+    "the_tools_and_other:red_armor_chestplate",
+    "the_tools_and_other:red_armor_leggings",
+    "the_tools_and_other:red_armor_boots",
+    "the_tools_and_other:red_emerald_a_armor_helmet",
+    "the_tools_and_other:red_emerald_a_armor_chestplate",
+    "the_tools_and_other:red_emerald_a_armor_leggings",
+    "the_tools_and_other:red_emerald_a_armor_boots",
+    "the_tools_and_other:emeralda_armor_helmet",
+    "the_tools_and_other:emeralda_armor_chestplate",
+    "the_tools_and_other:emeralda_armor_leggings",
+    "the_tools_and_other:emeralda_armor_boots",
+    "the_tools_and_other:pentist_helmet",
+    "the_tools_and_other:pentist_chestplate",
+    "the_tools_and_other:pentist_leggings",
+    "the_tools_and_other:pentist_boots"
+  ],
+  "weight": 11,
+  "max_level": 7,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 1,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": [],
+  "effects": {
+    "minecraft:damage_protection": [
+      {
+        "effect": {
+          "type": "minecraft:add",
+          "value": {
+            "type": "minecraft:linear",
+            "base": 50,
+            "per_level_above_first": 50
+          }
+        }
+      }
+    ]
+  }
+}

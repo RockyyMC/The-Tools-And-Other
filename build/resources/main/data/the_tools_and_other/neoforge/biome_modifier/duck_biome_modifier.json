@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "the_tools_and_other:berny_forest",
+    "the_tools_and_other:magne",
+    "the_tools_and_other:aqua_forest",
+    "the_tools_and_other:aqua_dark_forest",
+    "the_tools_and_other:colosal_forest",
+    "forest"
+  ],
+  "spawners": {
+    "type": "the_tools_and_other:duck",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

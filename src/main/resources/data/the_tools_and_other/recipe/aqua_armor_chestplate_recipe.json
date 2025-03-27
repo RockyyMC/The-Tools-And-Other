@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "the_tools_and_other:aqua_planks"
+  },
+  "result": {
+    "id": "the_tools_and_other:aqua_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "the_tools_and_other:trustanic_ore",
+    "the_tools_and_other:trustanic_block",
+    "the_tools_and_other:iron_chest",
+    "the_tools_and_other:blasting_furnace",
+    "the_tools_and_other:pentist_block",
+    "the_tools_and_other:colsitem_b"
+  ]
+}

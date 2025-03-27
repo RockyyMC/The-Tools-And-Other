@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "the_tools_and_other:creeper_helmet",
+    "count": 1
+  }
+}

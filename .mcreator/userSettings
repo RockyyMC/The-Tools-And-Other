@@ -1,0 +1,12 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserSplitPos": 0,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, The Tools And Other]",
+      "[, The Tools And Other, Resources (Gradle)]"
+    ]
+  }
+}

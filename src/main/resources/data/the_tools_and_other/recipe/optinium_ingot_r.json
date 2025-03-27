@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "the_tools_and_other",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "the_tools_and_other:optinium"
+  },
+  "result": {
+    "id": "the_tools_and_other:optinium_ingot",
+    "count": 9
+  }
+}

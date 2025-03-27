@@ -1,0 +1,7 @@
+{
+  "parent": "the_tools_and_other:custom/sword",
+  "textures": {
+    "sword": "the_tools_and_other:block/sword",
+    "particle": "the_tools_and_other:item/sword"
+  }
+}

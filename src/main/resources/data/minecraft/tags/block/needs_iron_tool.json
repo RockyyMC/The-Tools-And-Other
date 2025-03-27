@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "the_tools_and_other:green_diamond_ore",
+    "the_tools_and_other:red_diamond_ore",
+    "the_tools_and_other:green_diamond_block",
+    "the_tools_and_other:red_diamond_block",
+    "the_tools_and_other:metal_ore",
+    "the_tools_and_other:metal_block",
+    "the_tools_and_other:blue_reinforced_bricks",
+    "the_tools_and_other:diamond_chest",
+    "the_tools_and_other:magnif_block",
+    "the_tools_and_other:red_emerald",
+    "the_tools_and_other:red_emerald_ore_deepslate",
+    "the_tools_and_other:red_emerald_ore",
+    "the_tools_and_other:magnifictecioss_reinforced",
+    "the_tools_and_other:blue_ruby_block"
+  ]
+}

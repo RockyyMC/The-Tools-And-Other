@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "the_tools_and_other:block/folliage_block",
+    "particle": "the_tools_and_other:block/folliage_block"
+  },
+  "render_type": "translucent"
+}

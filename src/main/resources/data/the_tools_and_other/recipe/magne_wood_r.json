@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "the_tools_and_other:magne_log"
+  },
+  "result": {
+    "id": "the_tools_and_other:magne_wood",
+    "count": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "the_tools_and_other:pale_armor_chestplate",
+    "the_tools_and_other:yellow_diamond_chestplate",
+    "the_tools_and_other:green_diamond_chestplate",
+    "the_tools_and_other:red_diamond_chestplate",
+    "the_tools_and_other:metal_chestplate",
+    "the_tools_and_other:stone_chestplate",
+    "the_tools_and_other:dirt_chestplate",
+    "the_tools_and_other:blue_brick_armor_chestplate",
+    "the_tools_and_other:creeper_chestplate",
+    "the_tools_and_other:bedrock_armor_chestplate",
+    "the_tools_and_other:pentist_chestplate",
+    "the_tools_and_other:magnif_chestplate",
+    "the_tools_and_other:emeralda_armor_chestplate",
+    "the_tools_and_other:red_emerald_a_armor_chestplate",
+    "the_tools_and_other:red_armor_chestplate",
+    "the_tools_and_other:aqua_dark_armor_chestplate",
+    "the_tools_and_other:magne_armor_chestplate",
+    "the_tools_and_other:aqua_armor_chestplate",
+    "the_tools_and_other:obsidian_armor_chestplate",
+    "the_tools_and_other:copper_chestplate",
+    "the_tools_and_other:redstone_chestplate",
+    "the_tools_and_other:blue_ruby_armor_chestplate",
+    "the_tools_and_other:cherry_armor_chestplate",
+    "the_tools_and_other:amethyst_armor_chestplate"
+  ]
+}

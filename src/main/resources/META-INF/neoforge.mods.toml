@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="\u00A79All Right Reserved ( RockyyyGM )"
+
+[[mods]]
+modId="the_tools_and_other"
+version="3.0.1"
+displayName="The Tools And Other"
+displayURL="https://www.youtube.com/@RockyyyGM"
+logoFile="logo.png"
+credits="\u00A74RockyyyMC"
+authors="\u00A7bRockyyy\u00A73GM,RockyyyMC"
+description="Sorry For This Bug Of Structure In Air............."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.the_tools_and_other]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.4.123,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.the_tools_and_other]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.4]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.the_tools_and_other]]
+    modId="architectury"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

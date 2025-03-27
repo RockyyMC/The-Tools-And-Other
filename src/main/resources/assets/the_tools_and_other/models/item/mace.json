@@ -1,0 +1,7 @@
+{
+  "parent": "the_tools_and_other:custom/mace",
+  "textures": {
+    "0": "the_tools_and_other:block/mace_base",
+    "particle": "the_tools_and_other:item/mace_base"
+  }
+}

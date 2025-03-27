@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "the_tools_and_other:folliage_fragment"
+  },
+  "result": {
+    "id": "the_tools_and_other:folliage_stair",
+    "count": 7
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_tools_and_other:block/f",
+    "up": "the_tools_and_other:block/f",
+    "north": "the_tools_and_other:block/f",
+    "east": "the_tools_and_other:block/f",
+    "south": "the_tools_and_other:block/f",
+    "west": "the_tools_and_other:block/f",
+    "particle": "the_tools_and_other:block/f"
+  },
+  "render_type": "solid"
+}

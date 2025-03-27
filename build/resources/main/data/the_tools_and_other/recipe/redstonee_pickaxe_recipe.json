@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": "the_tools_and_other:redstone_ingot",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "the_tools_and_other:redstonee_pickaxe",
+    "count": 1
+  }
+}

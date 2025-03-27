@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "the_tools_and_other:creeper_chestplate",
+    "count": 1
+  }
+}

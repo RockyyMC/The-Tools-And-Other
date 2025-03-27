@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "the_tools_and_other:block/magne_door_abajo",
+    "texture": "the_tools_and_other:block/magne_door_abajo"
+  },
+  "render_type": "solid"
+}

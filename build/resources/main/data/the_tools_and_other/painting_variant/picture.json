@@ -1,0 +1,11 @@
+{
+  "asset_id": "the_tools_and_other:picture",
+  "height": 4,
+  "width": 4,
+  "title": {
+    "translate": "painting.the_tools_and_other.picture.title"
+  },
+  "author": {
+    "translate": "painting.the_tools_and_other.picture.author"
+  }
+}

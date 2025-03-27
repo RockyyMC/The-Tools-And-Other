@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "the_tools_and_other:cils",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 5,
+    "separation": 2,
+    "salt": 1637441281
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 77,
+  "_type": "tab",
+  "definition": {
+    "name": "Combustible",
+    "icon": {
+      "value": "Items.COAL#0"
+    },
+    "showSearch": false
+  }
+}

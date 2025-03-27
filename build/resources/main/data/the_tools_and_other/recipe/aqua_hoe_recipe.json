@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": "the_tools_and_other:aqua_planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "the_tools_and_other:aqua_hoe",
+    "count": 1
+  }
+}

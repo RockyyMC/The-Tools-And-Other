@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "the_tools_and_other:pale_armor_helmet",
+    "the_tools_and_other:yellow_diamond_helmet",
+    "the_tools_and_other:green_diamond_helmet",
+    "the_tools_and_other:red_diamond_helmet",
+    "the_tools_and_other:metal_helmet",
+    "the_tools_and_other:stone_helmet",
+    "the_tools_and_other:dirt_helmet",
+    "the_tools_and_other:blue_brick_armor_helmet",
+    "the_tools_and_other:creeper_helmet",
+    "the_tools_and_other:bedrock_armor_helmet",
+    "the_tools_and_other:pentist_helmet",
+    "the_tools_and_other:magnif_helmet",
+    "the_tools_and_other:emeralda_armor_helmet",
+    "the_tools_and_other:red_emerald_a_armor_helmet",
+    "the_tools_and_other:red_armor_helmet",
+    "the_tools_and_other:aqua_dark_armor_helmet",
+    "the_tools_and_other:magne_armor_helmet",
+    "the_tools_and_other:aqua_armor_helmet",
+    "the_tools_and_other:obsidian_armor_helmet",
+    "the_tools_and_other:copper_helmet",
+    "the_tools_and_other:redstone_helmet",
+    "the_tools_and_other:blue_ruby_armor_helmet",
+    "the_tools_and_other:cherry_armor_helmet",
+    "the_tools_and_other:amethyst_armor_helmet"
+  ]
+}

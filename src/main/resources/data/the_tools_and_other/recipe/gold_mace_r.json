@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": "the_tools_and_other:yellow_diamond_ingot",
+    "b": "the_tools_and_other:stick"
+  },
+  "result": {
+    "id": "the_tools_and_other:gold_mace",
+    "count": 1
+  }
+}

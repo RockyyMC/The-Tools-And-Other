@@ -1,0 +1,50 @@
+/kill @e[type=minecraft:zombie]
+/kill @e[type=spider]
+/tag @e add S
+/give dev the_tools_and_other:air 6
+/tag @e add S
+/give dev the_tools_and_other:air 200
+/damage @n 50 the_tools_and_other:fired
+/give dev the_tools_and_other:air 200
+/gamerule keepInventory true
+/give dev the_tools_and_other:air 200
+/gamerule fireDamage false
+/gamerule fireDamage truw
+/gamerule fireDamage true
+/gamerule fireDamage false
+/gamerule doDaylightCycle false
+/gamerule logAdminCommands false
+/gamerule doFireTick false
+/give dev the_tools_and_other:air 200
+/give dev the_tools_and_other:red_diamond_pickaxe
+/time set day
+/fill 13 -53 3
+/fill
+/fill 23 -54 3
+/fill 23 -54 3 0 -54 10 minecraft:oak_slab
+/time set day
+/gamemode
+/fly
+/give dev the_tools_and_other:air 200
+/function the_tools_and_other:air 2
+/function the_tools_and_other:air with entity Dev 2
+/function minecraft:water_bucket with entity Dev 2
+/help
+/neoforge tags minecraft:trial_spawner
+/neoforge tags minecraft:trial_spawner get 2 3
+/neoforge tags minecraft:trial_spawner get 2 33
+/function trop
+/function the_tools_and_other:c
+/function the_tools_and_other:trop
+/function trop with entity Dev 2
+/function the_tools_and_other:trop with entity Dev 2
+/function the_tools_and_other:c with entity Dev 2
+/advancement revoke Dev only all
+/advancement revoke Dev only the_tools_and_other:artifacts
+/give EV the_tools_and_other:air 200
+/give Dev the_tools_and_other:air 200
+/fly
+/damage dev 15 the_tools_and_other:fired
+/fly
+/damage dev 15 the_tools_and_other:fired
+/time set day

@@ -1,0 +1,9 @@
+{
+  "parent": "the_tools_and_other:custom/fridge",
+  "textures": {
+    "all": "the_tools_and_other:block/black_fridge",
+    "particle": "the_tools_and_other:block/black_fridge",
+    "Black_Fridge.png": "the_tools_and_other:block/black_fridge"
+  },
+  "render_type": "solid"
+}

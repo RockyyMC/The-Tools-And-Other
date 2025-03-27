@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "the_tools_and_other:block/folliage_door_top",
+    "particle": "the_tools_and_other:block/folliage_door_top"
+  },
+  "render_type": "translucent"
+}

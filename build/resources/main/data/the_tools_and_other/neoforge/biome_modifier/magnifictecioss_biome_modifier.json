@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_taiga",
+  "features": "the_tools_and_other:magnifictecioss",
+  "step": "underground_ores"
+}

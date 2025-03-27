@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "the_tools_and_other:copsidian",
+  "step": "underground_ores"
+}

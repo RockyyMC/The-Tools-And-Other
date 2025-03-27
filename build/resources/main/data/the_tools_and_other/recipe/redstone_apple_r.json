@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "the_tools_and_other:redstone_ingot",
+    "b": "minecraft:apple"
+  },
+  "result": {
+    "id": "the_tools_and_other:redstone_apple",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "the_tools_and_other:obsidian_armor_chestplate",
+    "count": 1
+  }
+}
